@@ -27,3 +27,6 @@ Used C# to complete the test software of driving school (desktop), teaching prog
 - Responsible for "Graduate Research and Innovation Projects of Jiangsu Province". (2019)
 - First prize in "Big Data Competition of Anhui University of Technology". (2018)
 - First prize in "Information Security Contest of Anhui Province". (2017)
+
+## OCID
+https://orcid.org/0000-0002-6322-9625
