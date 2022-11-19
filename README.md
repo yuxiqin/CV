@@ -1,6 +1,6 @@
 # Yuxi Qin
 
-## Education
+## Educations and Works
 - 12/2021-12/2022    Visiting researcher in Department of Communications and Networking, Aalto University.
 - 08/2019-Present     Ph.D. in School of Communication and Information Engineering, Nanjing University of Posts and Telecommunications.
 - 07/2018-07/2019    Worked in Department of Information Technology Center, Chuzhou Vocational and Technical CollegeChuzhou Vocational and Technical College.
