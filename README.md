@@ -22,7 +22,8 @@ Proficient in C# and Python. Learned Java, JavaScript, SQL, C, C++ and PHP.
 ### For projects:  
 Used C# to complete the test software of driving school (desktop), teaching program used by school administration department (website), many crawler programs and so on. Used Python for testing Machine Learning algorithms in my research field. For Java and Android, I learned the basic development process and tried to make a simple ticket information App, and I know nothing about IOS. For JavaScript, Extjs and Jquery are the most familiar UI for me, and I've done some web pages used these tools. For SQL, I worked with most relational databases, including SQL Server, Oracle, MySQL, and SQLite.
 
-## Honors and Awards
-- Responsible for "Graduate Research and Innovation Projects of Jiangsu Province" (2019).
-- First prize in "Big Data Competition of Anhui University of Technology" (2018).
-- First prize in "Information Security Contest of Anhui Province" (2017).
+## Honors and Funding
+- Scholarship, China Scholarship Council, under grant No. 202108320270. (2021)
+- Responsible for "Graduate Research and Innovation Projects of Jiangsu Province". (2019)
+- First prize in "Big Data Competition of Anhui University of Technology". (2018)
+- First prize in "Information Security Contest of Anhui Province". (2017)
