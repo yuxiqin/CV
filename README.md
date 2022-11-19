@@ -12,7 +12,7 @@
 ### Research:
 Human gesture recognition based on WiFi signals: Human gestures will interfere with WiFi signals, and different gestures will bring different effects. We use fine-grained Channel State Information (CSI) extracted from WiFi signals to recognize different gestures. The raw CSI contains a lot of noise and redundant information, so we need to pre-process it: noise reduction, scale transformation and feature extraction.   Finally, the machine learning algorithms are used to recognize the acquired features.
 ### Publications:
-[1] Qin Y, Pan S, Zhou W, Pan D, Li Z. "Consumer Wi-Fi Device Based Action Quality Recognition: An Illustrative Example of Seated Dumbbell Press Action," in IET Communications. 2020, 15(4):613-626.
+[1] Qin Y, Pan S, Zhou W, Pan D, Li Z. "Consumer Wi-Fi Device Based Action Quality Recognition: An Illustrative Example of Seated Dumbbell Press Action," in *IET Communications*. 2020, 15(4):613-626.
 
 ### Major Courses and Skills
 Major courses    Pattern recognition, Machine learning, Advanced Mathematics, Linear algebra, Probability theory, Computer Networks, Principles of Computer Composition.
