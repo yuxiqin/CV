@@ -14,13 +14,12 @@ Human gesture recognition based on WiFi signals: Human gestures will interfere w
 ### Publications:
 [1] Qin Y, Pan S, Zhou W, Pan D, Li Z. "Consumer Wi-Fi Device Based Action Quality Recognition: An Illustrative Example of Seated Dumbbell Press Action," in *IET Communications*. 2020, 15(4):613-626.
 
-### Major Courses and Skills
+## Major Courses and Skills
 Major courses    Pattern recognition, Machine learning, Advanced Mathematics, Linear algebra, Probability theory, Computer Networks, Principles of Computer Composition.
-## Programming    
-### For languages: 
-Proficient in C# and Python. Learned Java, JavaScript, SQL, C, C++ and PHP. 
-### For projects:  
-Used C# to complete the test software of driving school (desktop), teaching program used by school administration department (website), many crawler programs and so on. Used Python for testing Machine Learning algorithms in my research field. For Java and Android, I learned the basic development process and tried to make a simple ticket information App, and I know nothing about IOS. For JavaScript, Extjs and Jquery are the most familiar UI for me, and I've done some web pages used these tools. For SQL, I worked with most relational databases, including SQL Server, Oracle, MySQL, and SQLite.
+### Programming    
+For languages: Proficient in C# and Python. Learned Java, JavaScript, SQL, C, C++ and PHP. 
+
+For projects: Used C# to complete the test software of driving school (desktop), teaching program used by school administration department (website), many crawler programs and so on. Used Python for testing Machine Learning algorithms in my research field. For Java and Android, I learned the basic development process and tried to make a simple ticket information App, and I know nothing about IOS. For JavaScript, Extjs and Jquery are the most familiar UI for me, and I've done some web pages used these tools. For SQL, I worked with most relational databases, including SQL Server, Oracle, MySQL, and SQLite.
 
 ## Honors and Funding
 - Scholarship, China Scholarship Council, under grant No. 202108320270. (2021)
